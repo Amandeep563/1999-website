@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  margin-top: 31px;
+  margin-left: 28px;
+  margin-bottom: 12px;
+  color: red;
+}
+
+.toy-1 h3 {
+  margin-left: 38px;
+  margin-top: 40px;
+  font-size: 28px;
+  color: blue;
+}
+.toy-img {
+  height: 250px;
+  margin-top: 67px;
+  margin-left: 37px;
+}
+
+.toy-1 h2 {
+  margin-left: 286px;
+  margin-top: -252px;
+}
+
+.toy-1 p {
+  margin-left: 289px;
+  margin-right: 665px;
+  margin-top: 7px;
+}
+
+.toy-1 button {
+  margin-left: 288px;
+  margin-top: 26px;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-bottom: 4px;
+}
+.toy-1 .add {
+  margin-left: 21px;
+}
+
+/* toy 2 */
+.toy-2 .toy-img {
+  height: 250px;
+  margin-top: 67px;
+  margin-left: 37px;
+}
+
+.toy-2 h2 {
+  margin-left: 286px;
+  margin-top: -252px;
+}
+
+.toy-2 p {
+  margin-left: 289px;
+  margin-right: 665px;
+  margin-top: 7px;
+}
+
+.toy-2 button {
+  margin-left: 288px;
+  margin-top: 26px;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-bottom: 4px;
+}
+.toy-2 .add {
+  margin-left: 21px;
+}
+
+/* game 1 */
+.game-1 h3 {
+  margin-top: 100px;
+  margin-left: 37px;
+  font-size: 25px;
+  color: #63ffff;
+}
+
+.game-img {
+  height: 250px;
+  margin-left: 18px;
+  margin-top: 15px;
+}
+.game-1 h2 {
+  margin-left: 195px;
+  margin-top: -221px;
+}
+.game-1 p {
+  margin-left: 194px;
+  margin-right: 624px;
+  margin-top: 18px;
+}
+
+.game-1 button {
+  margin-left: 197px;
+  margin-top: 29px;
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-bottom: 4px;
+}
+
+.game-1 .add {
+  margin-left: 26px;
+}
+
+.goku {
+  height: 250px;
+  margin-top: 86px;
+  margin-left: 127px;
+}

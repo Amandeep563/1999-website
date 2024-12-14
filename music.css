@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  margin-top: 29px;
+  margin-bottom: 18px;
+  margin-left: 35px;
+  color: red;
+}
+
+.music-1-photo {
+  margin-top: 38px;
+  margin-left: 57px;
+}
+
+.music-1 h1 {
+  margin-left: 375px;
+  margin-top: -303px;
+}
+
+.music-1 h4 {
+  margin-left: 378px;
+}
+
+.music-1 p {
+  margin-left: 376px;
+  margin-right: 675px;
+  margin-top: 19px;
+}
+
+.music-1 button {
+  margin-left: 377px;
+  margin-top: 41px;
+  padding-left: 14px;
+  padding-top: 4px;
+  padding-right: 16px;
+  padding-bottom: 5px;
+  background-color: #ffcc66;
+}
+
+.music-1 .add {
+  margin-left: 30px;
+}
+
+/* music 2 */
+.music-2-photo {
+  /* margin-top: 38px;
+  margin-left: 57px; */
+  margin-top: 65px;
+  margin-left: 15px;
+}
+
+.music-2 h1 {
+  margin-left: 375px;
+  margin-top: -303px;
+}
+
+.music-2 h4 {
+  margin-left: 378px;
+}
+
+.music-2 p {
+  margin-left: 376px;
+  margin-right: 675px;
+  margin-top: 19px;
+}
+
+.music-2 button {
+  margin-left: 377px;
+  margin-top: 41px;
+  padding-left: 14px;
+  padding-top: 4px;
+  padding-right: 16px;
+  padding-bottom: 5px;
+  background-color: #ffcc66;
+}
+
+.music-2 .add {
+  margin-left: 30px;
+}
+
+/* music 3 */
+.music-3-photo {
+  margin-top: 38px;
+  margin-left: 57px;
+}
+
+.music-3 h1 {
+  margin-left: 375px;
+
+  margin-top: -240px;
+}
+
+.music-3 h4 {
+  margin-left: 378px;
+}
+
+.music-3 p {
+  margin-left: 376px;
+  margin-right: 675px;
+  margin-top: 19px;
+}
+
+.music-3 button {
+  margin-left: 377px;
+  margin-top: 41px;
+  padding-left: 14px;
+  padding-top: 4px;
+  padding-right: 16px;
+  padding-bottom: 5px;
+  background-color: #ffcc66;
+}
+
+.music-3 .add {
+  margin-left: 30px;
+}
